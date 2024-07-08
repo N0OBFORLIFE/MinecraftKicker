@@ -4,7 +4,7 @@ const botArgs = {
     host: '', // Server ip goes here
     port: '',
     username: "", // Username to be kicked
-    version: '1.20.4' 
+    version: ''
 };
 
 let bot = mineflayer.createBot(botArgs);
